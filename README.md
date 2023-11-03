@@ -18,7 +18,12 @@
   
  
 </div>
-  <br>
- 
- 
-<div>
+  <br>
+ 
+ 
+<div> 
+
+  <a href = "felipebrandao2005@hotmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FOutlook.com&psig=AOvVaw2ya1RWHBw8fffInZmn22l6&ust=1699059505108000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDr84PQpoIDFQAAAAAdAAAAABAH" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-brandao-figueiredo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
