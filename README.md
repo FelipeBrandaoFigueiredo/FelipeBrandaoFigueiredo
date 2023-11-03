@@ -1,10 +1,11 @@
 ## Olá! Eu sou a Felipe Brandão de Figueiredo
+## Seja Bem-Vindo!
 
 - 🔭 Atualmente estou focado nas liguagens de programação Java e Kotlin.
 - 🌱 Estou focando meus estudos em Desenvolvimento Mobile Android Nativo.
 - 📫 Estou cursando Ciências da Computação pela Univeridade Anhembi Morumbi.
 - ⚡ Estou em busca da minha primeira oportunidade para atuar como desenvolvedor.
-- 😄 Veja meu avatar, repositorio e meus contatos mais abaixos 
+- 😄 Veja meus repositorios e meus contatos mais abaixo
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBrandaoFigueiredo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -23,7 +24,7 @@
  
 <div> 
 
-  <a href = "felipebrandao2005@hotmail.com"><img src="https://seletronic.com.br/wp-content/uploads/2019/03/outlook-logo.png" target="_blank"></a>
+  <a href = "felipebrandao2005@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-brandao-figueiredo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
