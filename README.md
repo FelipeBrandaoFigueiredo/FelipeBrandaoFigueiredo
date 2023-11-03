@@ -1,4 +1,4 @@
-## Olá! Eu sou a Felipe Brandão de Figueiredo
+## Olá! Eu sou Felipe Brandão de Figueiredo ☕
 ## Seja Bem-Vindo!
 
 #### Atualmente estou:
