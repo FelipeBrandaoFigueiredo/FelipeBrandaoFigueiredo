@@ -3,8 +3,8 @@
 
 #### Atualmente estou:
 - 🔭 cursando Ciências da Computação **[Bacharelado]** pela Univeridade Anhembi Morumbi.
-- 🌱 Estou focando meus estudos em Desenvolvimento Mobile Android Nativo.
-- 📫 Atualmente estou focado nas liguagens de programação Java e Kotlin.
+- 🌱 Focando meus estudos em Desenvolvimento Mobile Android Nativo.
+- 📫 Atualmente focado nas liguagens de programação Java e Kotlin.
 - 📚 Em busca de projetos para ajudar, aprender e desenvolver meus conhecimentos.
 - ⚡ Estou em busca da minha primeira oportunidade de estágio para atuar como desenvolvedor.
 - 😄 Veja meus repositorios e meus contatos mais abaixo!
