@@ -1,11 +1,13 @@
 ## Olá! Eu sou a Felipe Brandão de Figueiredo
 ## Seja Bem-Vindo!
 
-- 🔭 Atualmente estou focado nas liguagens de programação Java e Kotlin.
+#### Atualmente estou:
+- 🔭 cursando Ciências da Computação **[Bacharelado]** pela Univeridade Anhembi Morumbi.
 - 🌱 Estou focando meus estudos em Desenvolvimento Mobile Android Nativo.
-- 📫 Estou cursando Ciências da Computação pela Univeridade Anhembi Morumbi.
-- ⚡ Estou em busca da minha primeira oportunidade para atuar como desenvolvedor.
-- 😄 Veja meus repositorios e meus contatos mais abaixo
+- 📫 Atualmente estou focado nas liguagens de programação Java e Kotlin.
+- 📚 Em busca de projetos para ajudar, aprender e desenvolver meus conhecimentos.
+- ⚡ Estou em busca da minha primeira oportunidade de estágio para atuar como desenvolvedor.
+- 😄 Veja meus repositorios e meus contatos mais abaixo!
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBrandaoFigueiredo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
